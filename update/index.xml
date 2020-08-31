@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Updates | Robert-Jan Bruintjes</title>
+    <link>rjbruin.github.io/update/</link>
+      <atom:link href="rjbruin.github.io/update/index.xml" rel="self" type="application/rss+xml" />
+    <description>Updates</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 31 Aug 2020 20:52:16 +0200</lastBuildDate>
+    <image>
+      <url>/rjbruin.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Updates</title>
+      <link>rjbruin.github.io/update/</link>
+    </image>
+    
+    <item>
+      <title>ECCV Workshop</title>
+      <link>rjbruin.github.io/update/2020-08-31-workshop-vipriors-2020/</link>
+      <pubDate>Mon, 31 Aug 2020 20:52:16 +0200</pubDate>
+      <guid>rjbruin.github.io/update/2020-08-31-workshop-vipriors-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MSc supervision</title>
+      <link>rjbruin.github.io/update/2020-08-28-supervision-msc/</link>
+      <pubDate>Fri, 28 Aug 2020 20:56:31 +0200</pubDate>
+      <guid>rjbruin.github.io/update/2020-08-28-supervision-msc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching Assistance</title>
+      <link>rjbruin.github.io/update/2020-07-07-cv-by-dl-ta/</link>
+      <pubDate>Sun, 07 Jun 2020 20:55:09 +0200</pubDate>
+      <guid>rjbruin.github.io/update/2020-07-07-cv-by-dl-ta/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

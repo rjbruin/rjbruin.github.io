@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fritjof Buüttner | Robert-Jan Bruintjes</title>
+    <link>rjbruin.github.io/author/fritjof-buuttner/</link>
+      <atom:link href="rjbruin.github.io/author/fritjof-buuttner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fritjof Buüttner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Aug 2015 16:19:03 +0200</lastBuildDate>
+    <image>
+      <url>/rjbruin.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Fritjof Buüttner</title>
+      <link>rjbruin.github.io/author/fritjof-buuttner/</link>
+    </image>
+    
+    <item>
+      <title>Probabilistic multileave for online retrieval evaluation</title>
+      <link>rjbruin.github.io/publication/online-multileave/</link>
+      <pubDate>Sun, 09 Aug 2015 16:19:03 +0200</pubDate>
+      <guid>rjbruin.github.io/publication/online-multileave/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
