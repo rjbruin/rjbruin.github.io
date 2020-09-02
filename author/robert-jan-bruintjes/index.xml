@@ -5,20 +5,12 @@
     <link>https://rjbruin.github.io/author/robert-jan-bruintjes/</link>
       <atom:link href="https://rjbruin.github.io/author/robert-jan-bruintjes/index.xml" rel="self" type="application/rss+xml" />
     <description>Robert-Jan Bruintjes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Aug 2015 16:19:03 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>https://rjbruin.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Robert-Jan Bruintjes</title>
       <link>https://rjbruin.github.io/author/robert-jan-bruintjes/</link>
     </image>
-    
-    <item>
-      <title>Probabilistic multileave for online retrieval evaluation</title>
-      <link>https://rjbruin.github.io/publication/online-multileave/</link>
-      <pubDate>Sun, 09 Aug 2015 16:19:03 +0200</pubDate>
-      <guid>https://rjbruin.github.io/publication/online-multileave/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
