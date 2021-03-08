@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Robert-Jan Bruintjes</title>
-    <link>https://rjbruin.github.io/author/robert-jan-bruintjes/</link>
-      <atom:link href="https://rjbruin.github.io/author/robert-jan-bruintjes/index.xml" rel="self" type="application/rss+xml" />
-    <description>Robert-Jan Bruintjes</description>
+    <title>Jan van Gemert | Robert-Jan Bruintjes</title>
+    <link>https://rjbruin.github.io/author/jan-van-gemert/</link>
+      <atom:link href="https://rjbruin.github.io/author/jan-van-gemert/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jan van Gemert</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Mar 2021 13:10:27 +0100</lastBuildDate>
     <image>
       <url>https://rjbruin.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Robert-Jan Bruintjes</title>
-      <link>https://rjbruin.github.io/author/robert-jan-bruintjes/</link>
+      <title>Jan van Gemert</title>
+      <link>https://rjbruin.github.io/author/jan-van-gemert/</link>
     </image>
     
     <item>
@@ -20,15 +20,6 @@
       <description>&lt;!-- Write using any format: https://gohugo.io/content-management/formats/ --&gt;
 &lt;!-- ![](/images/figure1.png) --&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Probabilistic multileave for online retrieval evaluation</title>
-      <link>https://rjbruin.github.io/publication/online-multileave/</link>
-      <pubDate>Sun, 09 Aug 2015 16:19:03 +0200</pubDate>
-      <guid>https://rjbruin.github.io/publication/online-multileave/</guid>
-      <description>&lt;!-- Write using any format: https://gohugo.io/content-management/formats/ --&gt;
-&lt;!-- ![](/images/figure1.png) --&gt;</description>
     </item>
     
   </channel>
