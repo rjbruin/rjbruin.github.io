@@ -5,12 +5,20 @@
     <link>https://rjbruin.github.io/</link>
       <atom:link href="https://rjbruin.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Robert-Jan Bruintjes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Mar 2021 13:35:35 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Jun 2021 17:53:22 +0200</lastBuildDate>
     <image>
       <url>https://rjbruin.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Robert-Jan Bruintjes</title>
       <link>https://rjbruin.github.io/</link>
     </image>
+    
+    <item>
+      <title>Lecture Self-Attention</title>
+      <link>https://rjbruin.github.io/update/2021-06-02-lecture-self-attention/</link>
+      <pubDate>Wed, 02 Jun 2021 17:53:22 +0200</pubDate>
+      <guid>https://rjbruin.github.io/update/2021-06-02-lecture-self-attention/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>VIPriors challenges 2020 report</title>
