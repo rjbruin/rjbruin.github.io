@@ -5,12 +5,20 @@
     <link>https://rjbruin.github.io/</link>
       <atom:link href="https://rjbruin.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Robert-Jan Bruintjes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Aug 2021 17:52:16 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 10:34:37 +0200</lastBuildDate>
     <image>
       <url>https://rjbruin.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Robert-Jan Bruintjes</title>
       <link>https://rjbruin.github.io/</link>
     </image>
+    
+    <item>
+      <title>ICCV Outstanding Reviewer</title>
+      <link>https://rjbruin.github.io/update/2021-09-01-iccv-outstanding-reviewer/</link>
+      <pubDate>Wed, 01 Sep 2021 10:34:37 +0200</pubDate>
+      <guid>https://rjbruin.github.io/update/2021-09-01-iccv-outstanding-reviewer/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ICCV Workshop</title>
