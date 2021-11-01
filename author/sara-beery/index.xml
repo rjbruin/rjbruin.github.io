@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jan van Gemert | Robert-Jan Bruintjes</title>
-    <link>https://rjbruin.github.io/author/jan-van-gemert/</link>
-      <atom:link href="https://rjbruin.github.io/author/jan-van-gemert/index.xml" rel="self" type="application/rss+xml" />
-    <description>Jan van Gemert</description>
+    <title>Sara Beery | Robert-Jan Bruintjes</title>
+    <link>https://rjbruin.github.io/author/sara-beery/</link>
+      <atom:link href="https://rjbruin.github.io/author/sara-beery/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sara Beery</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 23 Oct 2021 12:55:08 +0100</lastBuildDate>
     <image>
       <url>https://rjbruin.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Jan van Gemert</title>
-      <link>https://rjbruin.github.io/author/jan-van-gemert/</link>
+      <title>Sara Beery</title>
+      <link>https://rjbruin.github.io/author/sara-beery/</link>
     </image>
     
     <item>
@@ -17,16 +17,6 @@
       <link>https://rjbruin.github.io/publication/deerdann/</link>
       <pubDate>Sat, 23 Oct 2021 12:55:08 +0100</pubDate>
       <guid>https://rjbruin.github.io/publication/deerdann/</guid>
-      <description>&lt;!-- Write using any format: https://gohugo.io/content-management/formats/ --&gt;
-&lt;!-- ![](/images/figure1.png) --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>VIPriors 1: Visual Inductive Priors for Data-Efficient Deep Learning Challenges</title>
-      <link>https://rjbruin.github.io/publication/vipriors-1/</link>
-      <pubDate>Mon, 08 Mar 2021 13:10:27 +0100</pubDate>
-      <guid>https://rjbruin.github.io/publication/vipriors-1/</guid>
       <description>&lt;!-- Write using any format: https://gohugo.io/content-management/formats/ --&gt;
 &lt;!-- ![](/images/figure1.png) --&gt;
 </description>
