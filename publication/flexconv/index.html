@@ -515,6 +515,36 @@
             
           
           
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/CV-Robert-Jan-Bruintjes-academic.pdf"><span>CV</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
             
             
             
@@ -789,10 +819,14 @@
 
   
   <span ><a href="https://www.davidromero.ml/" target="_blank">David W. Romero*</a></span>, <span ><a href="https://rjbruin.github.io/" target="_blank">Robert-Jan Bruintjes*</a></span>, <span ><a href="https://jmtomczak.github.io/" target="_blank">Jakub M. Tomczak</a></span>, <span ><a href="https://erikbekkers.bitbucket.io/" target="_blank">Erik J. Bekkers</a></span>, <span ><a href="https://www.cs.vu.nl/~mhoogen/" target="_blank">Mark Hoogendoorn</a></span>, <span ><a href="https://jvgemert.github.io" target="_blank">Jan C. van Gemert</a></span>
-        <span class="middot-divider"></span>
+        
+        <br />
   <span class="pub-publication">
         
-          ICLR 2022
+          Proceedings of the 10th International Conference on Learning Representations
+          
+            (ICLR 2022)
+          
         
       </span>
     </div>
@@ -820,21 +854,34 @@
   </div>
 
   
+  <div class="row justify-content-md-center mt-5">
+    <div class="col-12 col-lg-10 text-justify paper-content">
+      When designing Convolutional Neural Networks (CNNs), one must select the size of the convolutional kernels before training. Recent works show CNNs benefit from different kernel sizes at different layers, but exploring all possible combinations is unfeasible in practice. A more efficient approach is to learn the kernel size during training. However, existing works that learn the kernel size have a limited bandwidth. These approaches scale kernels by dilation, and thus the detail they can describe is limited. In this work, we propose FlexConv, a novel convolutional operation with which high bandwidth convolutional kernels of learnable kernel size can be learned at a fixed parameter cost. FlexNets model long-term dependencies without the use of pooling, achieve state-of-the-art performance on several sequential datasets, outperform recent works with learned kernel sizes, and are competitive with much deeper ResNets on image benchmark datasets. Additionally, FlexNets can be deployed at higher resolutions than those seen during training. To avoid aliasing, we propose a novel kernel parameterization with which the frequency of the kernels can be analytically controlled. Our novel kernel parameterization shows higher descriptive power and faster convergence speed than existing parameterizations. This leads to important improvements in classification accuracy.
+    </div>
+  </div>
+  
+
+  
+  <div class="row justify-content-md-center mt-5">
+    <div class="col-12 col-lg-10 text-justify paper-content">
+      <!-- Write using any format: https://gohugo.io/content-management/formats/ -->
+<!-- ![](/images/figure1.png) -->
+<p><small>* Equal contribution</small>
+    </div>
+  </div>
+  
   <div class="row mt-5">
-    <div class="col-12 col-lg-4 text-justify paper-citation">
-        <h3>Citation
+    <div class="col-12 col-lg-4 offset-lg-1 text-justify paper-citation">
+        <h3>Bibtex
             
         </h3>
 
-        <code class='hljs bash' style='text-align: left !important'>@article{romero2021flexconv, author  = {David W. Romero and Robert-Jan Bruintjes and Jakub M. Tomczak and Erik J. Bekkers and Mark Hoogendoorn and Jan C. van Gemert}, title   = {FlexConv: Continuous Kernel Convolutions with Differentiable Kernel Sizes}, journal = {Proceedings of the 10th International Conference on Learning Representations}, year    = 2022, note    = {Accepted for publication}, }</code>
+        <code class='hljs bash' style='text-align: left !important'>@article{romerobruintjes2021flexconv, author  = {David W. Romero and Robert-Jan Bruintjes and Jakub M. Tomczak and Erik J. Bekkers and Mark Hoogendoorn and Jan C. van Gemert}, title   = {FlexConv: Continuous Kernel Convolutions with Differentiable Kernel Sizes}, journal = {Proceedings of the 10th International Conference on Learning Representations}, year    = 2022, note    = {Accepted for publication}, }</code>
 
         
     </div>
     
-    <div class="col-12 col-lg-8 text-justify">
-        <h3>Abstract</h3>
-        <p class="pub-abstract" style="font-size: 0.9em">When designing Convolutional Neural Networks (CNNs), one must select the size of the convolutional kernels before training. Recent works show CNNs benefit from different kernel sizes at different layers, but exploring all possible combinations is unfeasible in practice. A more efficient approach is to learn the kernel size during training. However, existing works that learn the kernel size have a limited bandwidth. These approaches scale kernels by dilation, and thus the detail they can describe is limited. In this work, we propose FlexConv, a novel convolutional operation with which high bandwidth convolutional kernels of learnable kernel size can be learned at a fixed parameter cost. FlexNets model long-term dependencies without the use of pooling, achieve state-of-the-art performance on several sequential datasets, outperform recent works with learned kernel sizes, and are competitive with much deeper ResNets on image benchmark datasets. Additionally, FlexNets can be deployed at higher resolutions than those seen during training. To avoid aliasing, we propose a novel kernel parameterization with which the frequency of the kernels can be analytically controlled. Our novel kernel parameterization shows higher descriptive power and faster convergence speed than existing parameterizations. This leads to important improvements in classification accuracy.</p>
-    </div>
+
     
   </div>
 </div>
