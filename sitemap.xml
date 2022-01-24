@@ -2,19 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://rjbruin.github.io/publication-type/4/</loc>
+    <lastmod>2022-01-24T13:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://rjbruin.github.io/author/attila-lengyel/</loc>
+    <lastmod>2022-01-24T13:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://rjbruin.github.io/authors/</loc>
+    <lastmod>2022-01-24T13:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://rjbruin.github.io/author/davide-zambrano/</loc>
+    <lastmod>2022-01-24T13:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://rjbruin.github.io/author/jan-van-gemert/</loc>
+    <lastmod>2022-01-24T13:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://rjbruin.github.io/author/marcos-baptista-rios/</loc>
+    <lastmod>2022-01-24T13:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://rjbruin.github.io/author/nergis-tomen/</loc>
+    <lastmod>2022-01-24T13:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://rjbruin.github.io/author/osman-semih-kayhan/</loc>
+    <lastmod>2022-01-24T13:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://rjbruin.github.io/publication_types/</loc>
+    <lastmod>2022-01-24T13:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://rjbruin.github.io/publication/</loc>
+    <lastmod>2022-01-24T13:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://rjbruin.github.io/author/robert-jan-bruintjes/</loc>
+    <lastmod>2022-01-24T13:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://rjbruin.github.io/</loc>
+    <lastmod>2022-01-24T13:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://rjbruin.github.io/publication/vipriors-2/</loc>
+    <lastmod>2022-01-24T13:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://rjbruin.github.io/update/</loc>
+    <lastmod>2022-01-24T09:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://rjbruin.github.io/update/2022-01-24-vipriors-2/</loc>
+    <lastmod>2022-01-24T09:00:00+01:00</lastmod>
+  </url><url>
     <loc>https://rjbruin.github.io/update/2022-01-21-paper-flexconv/</loc>
     <lastmod>2022-01-21T12:00:16+02:00</lastmod>
   </url><url>
-    <loc>https://rjbruin.github.io/</loc>
-    <lastmod>2022-01-21T12:00:16+02:00</lastmod>
-  </url><url>
-    <loc>https://rjbruin.github.io/update/</loc>
-    <lastmod>2022-01-21T12:00:16+02:00</lastmod>
-  </url><url>
     <loc>https://rjbruin.github.io/publication-type/1/</loc>
-    <lastmod>2022-01-21T11:46:19+02:00</lastmod>
-  </url><url>
-    <loc>https://rjbruin.github.io/authors/</loc>
     <lastmod>2022-01-21T11:46:19+02:00</lastmod>
   </url><url>
     <loc>https://rjbruin.github.io/author/david-w.-romero/</loc>
@@ -35,25 +71,10 @@
     <loc>https://rjbruin.github.io/author/mark-hoogendoorn/</loc>
     <lastmod>2022-01-21T11:46:19+02:00</lastmod>
   </url><url>
-    <loc>https://rjbruin.github.io/publication_types/</loc>
-    <lastmod>2022-01-21T11:46:19+02:00</lastmod>
-  </url><url>
-    <loc>https://rjbruin.github.io/publication/</loc>
-    <lastmod>2022-01-21T11:46:19+02:00</lastmod>
-  </url><url>
-    <loc>https://rjbruin.github.io/author/robert-jan-bruintjes/</loc>
-    <lastmod>2022-01-21T11:46:19+02:00</lastmod>
-  </url><url>
     <loc>https://rjbruin.github.io/publication-type/3/</loc>
     <lastmod>2021-10-23T12:55:08+01:00</lastmod>
   </url><url>
-    <loc>https://rjbruin.github.io/author/attila-lengyel/</loc>
-    <lastmod>2021-10-23T12:55:08+01:00</lastmod>
-  </url><url>
     <loc>https://rjbruin.github.io/publication/deerdann/</loc>
-    <lastmod>2021-10-23T12:55:08+01:00</lastmod>
-  </url><url>
-    <loc>https://rjbruin.github.io/author/jan-van-gemert/</loc>
     <lastmod>2021-10-23T12:55:08+01:00</lastmod>
   </url><url>
     <loc>https://rjbruin.github.io/author/sara-beery/</loc>
@@ -62,14 +83,14 @@
     <loc>https://rjbruin.github.io/author/tuhin-das/</loc>
     <lastmod>2021-10-23T12:55:08+01:00</lastmod>
   </url><url>
+    <loc>https://rjbruin.github.io/update/2021-08-06-workshop-vipriors-2021/</loc>
+    <lastmod>2021-10-11T17:52:16+02:00</lastmod>
+  </url><url>
     <loc>https://rjbruin.github.io/resources/</loc>
     <lastmod>2021-09-01T10:39:19+02:00</lastmod>
   </url><url>
     <loc>https://rjbruin.github.io/update/2021-09-01-iccv-outstanding-reviewer/</loc>
     <lastmod>2021-09-01T10:34:37+02:00</lastmod>
-  </url><url>
-    <loc>https://rjbruin.github.io/update/2021-08-06-workshop-vipriors-2021/</loc>
-    <lastmod>2021-08-06T17:52:16+02:00</lastmod>
   </url><url>
     <loc>https://rjbruin.github.io/update/2021-07-07-cv-by-dl-ta-2021/</loc>
     <lastmod>2021-06-07T20:55:09+02:00</lastmod>
@@ -79,15 +100,6 @@
   </url><url>
     <loc>https://rjbruin.github.io/update/2021-03-08-vipriors-1/</loc>
     <lastmod>2021-03-08T13:35:35+01:00</lastmod>
-  </url><url>
-    <loc>https://rjbruin.github.io/publication-type/4/</loc>
-    <lastmod>2021-03-08T13:10:27+01:00</lastmod>
-  </url><url>
-    <loc>https://rjbruin.github.io/author/marcos-baptista-rios/</loc>
-    <lastmod>2021-03-08T13:10:27+01:00</lastmod>
-  </url><url>
-    <loc>https://rjbruin.github.io/author/osman-semih-kayhan/</loc>
-    <lastmod>2021-03-08T13:10:27+01:00</lastmod>
   </url><url>
     <loc>https://rjbruin.github.io/publication/vipriors-1/</loc>
     <lastmod>2021-03-08T13:10:27+01:00</lastmod>
