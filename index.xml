@@ -5,12 +5,28 @@
     <link>https://rjbruin.github.io/</link>
       <atom:link href="https://rjbruin.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Robert-Jan Bruintjes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jan 2022 13:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jun 2022 15:43:57 +0200</lastBuildDate>
     <image>
       <url>https://rjbruin.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Robert-Jan Bruintjes</title>
       <link>https://rjbruin.github.io/</link>
     </image>
+    
+    <item>
+      <title>Lab visit @ University Tübingen</title>
+      <link>https://rjbruin.github.io/update/2022-06-24-visit-tuebingen/</link>
+      <pubDate>Thu, 23 Jun 2022 15:43:57 +0200</pubDate>
+      <guid>https://rjbruin.github.io/update/2022-06-24-visit-tuebingen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MSc supervision</title>
+      <link>https://rjbruin.github.io/update/2022-06-23-xiangxie-thesis/</link>
+      <pubDate>Thu, 23 Jun 2022 14:50:27 +0200</pubDate>
+      <guid>https://rjbruin.github.io/update/2022-06-23-xiangxie-thesis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>VIPriors 2: Visual Inductive Priors for Data-Efficient Deep Learning Challenges</title>
