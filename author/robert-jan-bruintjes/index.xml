@@ -5,12 +5,62 @@
     <link>https://rjbruin.github.io/author/robert-jan-bruintjes/</link>
       <atom:link href="https://rjbruin.github.io/author/robert-jan-bruintjes/index.xml" rel="self" type="application/rss+xml" />
     <description>Robert-Jan Bruintjes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jan 2022 13:00:00 +0100</lastBuildDate>
     <image>
       <url>https://rjbruin.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Robert-Jan Bruintjes</title>
       <link>https://rjbruin.github.io/author/robert-jan-bruintjes/</link>
     </image>
+    
+    <item>
+      <title>VIPriors 2: Visual Inductive Priors for Data-Efficient Deep Learning Challenges</title>
+      <link>https://rjbruin.github.io/publication/vipriors-2/</link>
+      <pubDate>Mon, 24 Jan 2022 13:00:00 +0100</pubDate>
+      <guid>https://rjbruin.github.io/publication/vipriors-2/</guid>
+      <description>&lt;!-- Write using any format: https://gohugo.io/content-management/formats/ --&gt;
+&lt;!-- ![](/images/figure1.png) --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FlexConv: Continuous Kernel Convolutions with Differentiable Kernel Sizes</title>
+      <link>https://rjbruin.github.io/publication/flexconv/</link>
+      <pubDate>Fri, 21 Jan 2022 11:46:19 +0200</pubDate>
+      <guid>https://rjbruin.github.io/publication/flexconv/</guid>
+      <description>&lt;!-- Write using any format: https://gohugo.io/content-management/formats/ --&gt;
+&lt;!-- ![](/images/figure1.png) --&gt;
+&lt;p&gt;&lt;small&gt;* Equal contribution&lt;/small&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Domain Adaptation for Rare Classes Augmented with Synthetic Samples</title>
+      <link>https://rjbruin.github.io/publication/deerdann/</link>
+      <pubDate>Sat, 23 Oct 2021 12:55:08 +0100</pubDate>
+      <guid>https://rjbruin.github.io/publication/deerdann/</guid>
+      <description>&lt;!-- Write using any format: https://gohugo.io/content-management/formats/ --&gt;
+&lt;!-- ![](/images/figure1.png) --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VIPriors 1: Visual Inductive Priors for Data-Efficient Deep Learning Challenges</title>
+      <link>https://rjbruin.github.io/publication/vipriors-1/</link>
+      <pubDate>Mon, 08 Mar 2021 13:10:27 +0100</pubDate>
+      <guid>https://rjbruin.github.io/publication/vipriors-1/</guid>
+      <description>&lt;!-- Write using any format: https://gohugo.io/content-management/formats/ --&gt;
+&lt;!-- ![](/images/figure1.png) --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Probabilistic multileave for online retrieval evaluation</title>
+      <link>https://rjbruin.github.io/publication/online-multileave/</link>
+      <pubDate>Sun, 09 Aug 2015 16:19:03 +0200</pubDate>
+      <guid>https://rjbruin.github.io/publication/online-multileave/</guid>
+      <description>&lt;!-- Write using any format: https://gohugo.io/content-management/formats/ --&gt;
+&lt;!-- ![](/images/figure1.png) --&gt;</description>
+    </item>
     
   </channel>
 </rss>
