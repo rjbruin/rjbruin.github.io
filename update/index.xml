@@ -5,12 +5,20 @@
     <link>https://rjbruin.github.io/update/</link>
       <atom:link href="https://rjbruin.github.io/update/index.xml" rel="self" type="application/rss+xml" />
     <description>Updates</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jun 2022 15:43:57 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Oct 2022 22:36:02 +0200</lastBuildDate>
     <image>
       <url>https://rjbruin.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Updates</title>
       <link>https://rjbruin.github.io/update/</link>
     </image>
+    
+    <item>
+      <title>ECCV Outstanding Reviewer</title>
+      <link>https://rjbruin.github.io/update/2022-10-eccv-outstanding/</link>
+      <pubDate>Wed, 19 Oct 2022 22:36:02 +0200</pubDate>
+      <guid>https://rjbruin.github.io/update/2022-10-eccv-outstanding/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Lab visit @ University Tübingen</title>
