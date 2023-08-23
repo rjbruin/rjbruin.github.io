@@ -2,125 +2,125 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Updates | Robert-Jan Bruintjes</title>
-    <link>https://rjbruin.github.io/update/</link>
-      <atom:link href="https://rjbruin.github.io/update/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rjbruintjes.nl/update/</link>
+      <atom:link href="https://rjbruintjes.nl/update/index.xml" rel="self" type="application/rss+xml" />
     <description>Updates</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 05 Apr 2023 11:54:20 +0200</lastBuildDate>
     <image>
-      <url>https://rjbruin.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://rjbruintjes.nl/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Updates</title>
-      <link>https://rjbruin.github.io/update/</link>
+      <link>https://rjbruintjes.nl/update/</link>
     </image>
     
     <item>
       <title>CVPRW 2023 paper: Learned Equivariance</title>
-      <link>https://rjbruin.github.io/update/2023-04-05-learned-equivariance/</link>
+      <link>https://rjbruintjes.nl/update/2023-04-05-learned-equivariance/</link>
       <pubDate>Wed, 05 Apr 2023 11:54:20 +0200</pubDate>
-      <guid>https://rjbruin.github.io/update/2023-04-05-learned-equivariance/</guid>
+      <guid>https://rjbruintjes.nl/update/2023-04-05-learned-equivariance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ECCV Outstanding Reviewer</title>
-      <link>https://rjbruin.github.io/update/2022-10-eccv-outstanding/</link>
+      <link>https://rjbruintjes.nl/update/2022-10-eccv-outstanding/</link>
       <pubDate>Wed, 19 Oct 2022 22:36:02 +0200</pubDate>
-      <guid>https://rjbruin.github.io/update/2022-10-eccv-outstanding/</guid>
+      <guid>https://rjbruintjes.nl/update/2022-10-eccv-outstanding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lab visit @ University Tübingen</title>
-      <link>https://rjbruin.github.io/update/2022-06-24-visit-tuebingen/</link>
+      <link>https://rjbruintjes.nl/update/2022-06-24-visit-tuebingen/</link>
       <pubDate>Thu, 23 Jun 2022 15:43:57 +0200</pubDate>
-      <guid>https://rjbruin.github.io/update/2022-06-24-visit-tuebingen/</guid>
+      <guid>https://rjbruintjes.nl/update/2022-06-24-visit-tuebingen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MSc supervision</title>
-      <link>https://rjbruin.github.io/update/2022-06-23-xiangxie-thesis/</link>
+      <link>https://rjbruintjes.nl/update/2022-06-23-xiangxie-thesis/</link>
       <pubDate>Thu, 23 Jun 2022 14:50:27 +0200</pubDate>
-      <guid>https://rjbruin.github.io/update/2022-06-23-xiangxie-thesis/</guid>
+      <guid>https://rjbruintjes.nl/update/2022-06-23-xiangxie-thesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VIPriors challenges 2021 report</title>
-      <link>https://rjbruin.github.io/update/2022-01-24-vipriors-2/</link>
+      <link>https://rjbruintjes.nl/update/2022-01-24-vipriors-2/</link>
       <pubDate>Mon, 24 Jan 2022 09:00:00 +0100</pubDate>
-      <guid>https://rjbruin.github.io/update/2022-01-24-vipriors-2/</guid>
+      <guid>https://rjbruintjes.nl/update/2022-01-24-vipriors-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ICLR 2022 paper: FlexConv</title>
-      <link>https://rjbruin.github.io/update/2022-01-21-paper-flexconv/</link>
+      <link>https://rjbruintjes.nl/update/2022-01-21-paper-flexconv/</link>
       <pubDate>Fri, 21 Jan 2022 12:00:16 +0200</pubDate>
-      <guid>https://rjbruin.github.io/update/2022-01-21-paper-flexconv/</guid>
+      <guid>https://rjbruintjes.nl/update/2022-01-21-paper-flexconv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ICCV Workshop</title>
-      <link>https://rjbruin.github.io/update/2021-08-06-workshop-vipriors-2021/</link>
+      <link>https://rjbruintjes.nl/update/2021-08-06-workshop-vipriors-2021/</link>
       <pubDate>Mon, 11 Oct 2021 17:52:16 +0200</pubDate>
-      <guid>https://rjbruin.github.io/update/2021-08-06-workshop-vipriors-2021/</guid>
+      <guid>https://rjbruintjes.nl/update/2021-08-06-workshop-vipriors-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ICCV Outstanding Reviewer</title>
-      <link>https://rjbruin.github.io/update/2021-09-01-iccv-outstanding-reviewer/</link>
+      <link>https://rjbruintjes.nl/update/2021-09-01-iccv-outstanding-reviewer/</link>
       <pubDate>Wed, 01 Sep 2021 10:34:37 +0200</pubDate>
-      <guid>https://rjbruin.github.io/update/2021-09-01-iccv-outstanding-reviewer/</guid>
+      <guid>https://rjbruintjes.nl/update/2021-09-01-iccv-outstanding-reviewer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching Assistance</title>
-      <link>https://rjbruin.github.io/update/2021-07-07-cv-by-dl-ta-2021/</link>
+      <link>https://rjbruintjes.nl/update/2021-07-07-cv-by-dl-ta-2021/</link>
       <pubDate>Mon, 07 Jun 2021 20:55:09 +0200</pubDate>
-      <guid>https://rjbruin.github.io/update/2021-07-07-cv-by-dl-ta-2021/</guid>
+      <guid>https://rjbruintjes.nl/update/2021-07-07-cv-by-dl-ta-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lecture Self-Attention</title>
-      <link>https://rjbruin.github.io/update/2021-06-02-lecture-self-attention/</link>
+      <link>https://rjbruintjes.nl/update/2021-06-02-lecture-self-attention/</link>
       <pubDate>Wed, 02 Jun 2021 17:53:22 +0200</pubDate>
-      <guid>https://rjbruin.github.io/update/2021-06-02-lecture-self-attention/</guid>
+      <guid>https://rjbruintjes.nl/update/2021-06-02-lecture-self-attention/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VIPriors challenges 2020 report</title>
-      <link>https://rjbruin.github.io/update/2021-03-08-vipriors-1/</link>
+      <link>https://rjbruintjes.nl/update/2021-03-08-vipriors-1/</link>
       <pubDate>Mon, 08 Mar 2021 13:35:35 +0100</pubDate>
-      <guid>https://rjbruin.github.io/update/2021-03-08-vipriors-1/</guid>
+      <guid>https://rjbruintjes.nl/update/2021-03-08-vipriors-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ECCV Workshop</title>
-      <link>https://rjbruin.github.io/update/2020-08-31-workshop-vipriors-2020/</link>
+      <link>https://rjbruintjes.nl/update/2020-08-31-workshop-vipriors-2020/</link>
       <pubDate>Mon, 31 Aug 2020 20:52:16 +0200</pubDate>
-      <guid>https://rjbruin.github.io/update/2020-08-31-workshop-vipriors-2020/</guid>
+      <guid>https://rjbruintjes.nl/update/2020-08-31-workshop-vipriors-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MSc supervision</title>
-      <link>https://rjbruin.github.io/update/2020-08-28-supervision-msc/</link>
+      <link>https://rjbruintjes.nl/update/2020-08-28-supervision-msc/</link>
       <pubDate>Fri, 28 Aug 2020 20:56:31 +0200</pubDate>
-      <guid>https://rjbruin.github.io/update/2020-08-28-supervision-msc/</guid>
+      <guid>https://rjbruintjes.nl/update/2020-08-28-supervision-msc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching Assistance</title>
-      <link>https://rjbruin.github.io/update/2020-07-07-cv-by-dl-ta/</link>
+      <link>https://rjbruintjes.nl/update/2020-07-07-cv-by-dl-ta/</link>
       <pubDate>Sun, 07 Jun 2020 20:55:09 +0200</pubDate>
-      <guid>https://rjbruin.github.io/update/2020-07-07-cv-by-dl-ta/</guid>
+      <guid>https://rjbruintjes.nl/update/2020-07-07-cv-by-dl-ta/</guid>
       <description></description>
     </item>
     

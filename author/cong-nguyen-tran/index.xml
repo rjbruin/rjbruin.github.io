@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cong-Nguyen Tran | Robert-Jan Bruintjes</title>
-    <link>https://rjbruin.github.io/author/cong-nguyen-tran/</link>
-      <atom:link href="https://rjbruin.github.io/author/cong-nguyen-tran/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rjbruintjes.nl/author/cong-nguyen-tran/</link>
+      <atom:link href="https://rjbruintjes.nl/author/cong-nguyen-tran/index.xml" rel="self" type="application/rss+xml" />
     <description>Cong-Nguyen Tran</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Aug 2015 16:19:03 +0200</lastBuildDate>
     <image>
-      <url>https://rjbruin.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://rjbruintjes.nl/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Cong-Nguyen Tran</title>
-      <link>https://rjbruin.github.io/author/cong-nguyen-tran/</link>
+      <link>https://rjbruintjes.nl/author/cong-nguyen-tran/</link>
     </image>
     
     <item>
       <title>Probabilistic multileave for online retrieval evaluation</title>
-      <link>https://rjbruin.github.io/publication/online-multileave/</link>
+      <link>https://rjbruintjes.nl/publication/online-multileave/</link>
       <pubDate>Sun, 09 Aug 2015 16:19:03 +0200</pubDate>
-      <guid>https://rjbruin.github.io/publication/online-multileave/</guid>
+      <guid>https://rjbruintjes.nl/publication/online-multileave/</guid>
       <description>&lt;!-- Write using any format: https://gohugo.io/content-management/formats/ --&gt;
 &lt;!-- ![](/images/figure1.png) --&gt;</description>
     </item>

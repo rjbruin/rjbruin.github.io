@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Robert-Jan Bruintjes</title>
-    <link>https://rjbruin.github.io/post/</link>
-      <atom:link href="https://rjbruin.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rjbruintjes.nl/post/</link>
+      <atom:link href="https://rjbruintjes.nl/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Sep 2019 16:02:37 +0200</lastBuildDate>
     <image>
-      <url>https://rjbruin.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://rjbruintjes.nl/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
-      <link>https://rjbruin.github.io/post/</link>
+      <link>https://rjbruintjes.nl/post/</link>
     </image>
     
     <item>
       <title>On Object Detection Metrics</title>
-      <link>https://rjbruin.github.io/post/on-object-detection-metrics/</link>
+      <link>https://rjbruintjes.nl/post/on-object-detection-metrics/</link>
       <pubDate>Tue, 10 Sep 2019 16:02:37 +0200</pubDate>
-      <guid>https://rjbruin.github.io/post/on-object-detection-metrics/</guid>
+      <guid>https://rjbruintjes.nl/post/on-object-detection-metrics/</guid>
       <description>&lt;p&gt;Read this post 
 &lt;a href=&#34;https://medium.com/swlh/on-object-detection-metrics-ae1e2090bd65?source=friends_link&amp;amp;sk=4526eeec289b753e317dc36b0264f6cf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;on Medium&lt;/a&gt;.&lt;/p&gt;
 </description>

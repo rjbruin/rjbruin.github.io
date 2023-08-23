@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jan van Gemert | Robert-Jan Bruintjes</title>
-    <link>https://rjbruin.github.io/author/jan-van-gemert/</link>
-      <atom:link href="https://rjbruin.github.io/author/jan-van-gemert/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rjbruintjes.nl/author/jan-van-gemert/</link>
+      <atom:link href="https://rjbruintjes.nl/author/jan-van-gemert/index.xml" rel="self" type="application/rss+xml" />
     <description>Jan van Gemert</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Apr 2023 20:00:00 +0200</lastBuildDate>
     <image>
-      <url>https://rjbruin.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://rjbruintjes.nl/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Jan van Gemert</title>
-      <link>https://rjbruin.github.io/author/jan-van-gemert/</link>
+      <link>https://rjbruintjes.nl/author/jan-van-gemert/</link>
     </image>
     
     <item>
       <title>What Affects Learned Equivariance in Deep Image Recognition Models?</title>
-      <link>https://rjbruin.github.io/publication/learned-equivariance/</link>
+      <link>https://rjbruintjes.nl/publication/learned-equivariance/</link>
       <pubDate>Thu, 06 Apr 2023 20:00:00 +0200</pubDate>
-      <guid>https://rjbruin.github.io/publication/learned-equivariance/</guid>
+      <guid>https://rjbruintjes.nl/publication/learned-equivariance/</guid>
       <description>&lt;!-- Write using any format: https://gohugo.io/content-management/formats/ --&gt;
 &lt;!-- ![](/images/figure1.png) --&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>VIPriors 2: Visual Inductive Priors for Data-Efficient Deep Learning Challenges</title>
-      <link>https://rjbruin.github.io/publication/vipriors-2/</link>
+      <link>https://rjbruintjes.nl/publication/vipriors-2/</link>
       <pubDate>Mon, 24 Jan 2022 13:00:00 +0100</pubDate>
-      <guid>https://rjbruin.github.io/publication/vipriors-2/</guid>
+      <guid>https://rjbruintjes.nl/publication/vipriors-2/</guid>
       <description>&lt;!-- Write using any format: https://gohugo.io/content-management/formats/ --&gt;
 &lt;!-- ![](/images/figure1.png) --&gt;
 </description>
@@ -34,9 +34,9 @@
     
     <item>
       <title>Domain Adaptation for Rare Classes Augmented with Synthetic Samples</title>
-      <link>https://rjbruin.github.io/publication/deerdann/</link>
+      <link>https://rjbruintjes.nl/publication/deerdann/</link>
       <pubDate>Sat, 23 Oct 2021 12:55:08 +0100</pubDate>
-      <guid>https://rjbruin.github.io/publication/deerdann/</guid>
+      <guid>https://rjbruintjes.nl/publication/deerdann/</guid>
       <description>&lt;!-- Write using any format: https://gohugo.io/content-management/formats/ --&gt;
 &lt;!-- ![](/images/figure1.png) --&gt;
 </description>
@@ -44,9 +44,9 @@
     
     <item>
       <title>VIPriors 1: Visual Inductive Priors for Data-Efficient Deep Learning Challenges</title>
-      <link>https://rjbruin.github.io/publication/vipriors-1/</link>
+      <link>https://rjbruintjes.nl/publication/vipriors-1/</link>
       <pubDate>Mon, 08 Mar 2021 13:10:27 +0100</pubDate>
-      <guid>https://rjbruin.github.io/publication/vipriors-1/</guid>
+      <guid>https://rjbruintjes.nl/publication/vipriors-1/</guid>
       <description>&lt;!-- Write using any format: https://gohugo.io/content-management/formats/ --&gt;
 &lt;!-- ![](/images/figure1.png) --&gt;
 </description>

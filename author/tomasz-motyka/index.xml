@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tomasz Motyka* | Robert-Jan Bruintjes</title>
-    <link>https://rjbruin.github.io/author/tomasz-motyka/</link>
-      <atom:link href="https://rjbruin.github.io/author/tomasz-motyka/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rjbruintjes.nl/author/tomasz-motyka/</link>
+      <atom:link href="https://rjbruintjes.nl/author/tomasz-motyka/index.xml" rel="self" type="application/rss+xml" />
     <description>Tomasz Motyka*</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Apr 2023 20:00:00 +0200</lastBuildDate>
     <image>
-      <url>https://rjbruin.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://rjbruintjes.nl/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Tomasz Motyka*</title>
-      <link>https://rjbruin.github.io/author/tomasz-motyka/</link>
+      <link>https://rjbruintjes.nl/author/tomasz-motyka/</link>
     </image>
     
     <item>
       <title>What Affects Learned Equivariance in Deep Image Recognition Models?</title>
-      <link>https://rjbruin.github.io/publication/learned-equivariance/</link>
+      <link>https://rjbruintjes.nl/publication/learned-equivariance/</link>
       <pubDate>Thu, 06 Apr 2023 20:00:00 +0200</pubDate>
-      <guid>https://rjbruin.github.io/publication/learned-equivariance/</guid>
+      <guid>https://rjbruintjes.nl/publication/learned-equivariance/</guid>
       <description>&lt;!-- Write using any format: https://gohugo.io/content-management/formats/ --&gt;
 &lt;!-- ![](/images/figure1.png) --&gt;
 </description>

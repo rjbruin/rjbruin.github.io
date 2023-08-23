@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent | Robert-Jan Bruintjes</title>
-    <link>https://rjbruin.github.io/recent/</link>
-      <atom:link href="https://rjbruin.github.io/recent/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rjbruintjes.nl/recent/</link>
+      <atom:link href="https://rjbruintjes.nl/recent/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://rjbruin.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://rjbruintjes.nl/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Recent</title>
-      <link>https://rjbruin.github.io/recent/</link>
+      <link>https://rjbruintjes.nl/recent/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://rjbruin.github.io/recent/2020/</link>
+      <link>https://rjbruintjes.nl/recent/2020/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rjbruin.github.io/recent/2020/</guid>
+      <guid>https://rjbruintjes.nl/recent/2020/</guid>
       <description></description>
     </item>
     
