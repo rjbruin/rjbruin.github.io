@@ -5,12 +5,38 @@
     <link>https://rjbruintjes.nl/</link>
       <atom:link href="https://rjbruintjes.nl/index.xml" rel="self" type="application/rss+xml" />
     <description>Robert-Jan Bruintjes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Apr 2023 20:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Jun 2023 20:55:09 +0200</lastBuildDate>
     <image>
       <url>https://rjbruintjes.nl/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Robert-Jan Bruintjes</title>
       <link>https://rjbruintjes.nl/</link>
     </image>
+    
+    <item>
+      <title>TA and lecturer for Computer Vision course</title>
+      <link>https://rjbruintjes.nl/update/2023-07-07-cv-by-dl-ta-2023/</link>
+      <pubDate>Wed, 07 Jun 2023 20:55:09 +0200</pubDate>
+      <guid>https://rjbruintjes.nl/update/2023-07-07-cv-by-dl-ta-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VIPriors challenges 2022 report</title>
+      <link>https://rjbruintjes.nl/update/2023-05-vipriors-3/</link>
+      <pubDate>Mon, 01 May 2023 15:59:45 +0200</pubDate>
+      <guid>https://rjbruintjes.nl/update/2023-05-vipriors-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VIPriors 3: Visual Inductive Priors for Data-Efficient Deep Learning Challenges</title>
+      <link>https://rjbruintjes.nl/publication/vipriors-3/</link>
+      <pubDate>Mon, 01 May 2023 15:52:37 +0200</pubDate>
+      <guid>https://rjbruintjes.nl/publication/vipriors-3/</guid>
+      <description>&lt;!-- Write using any format: https://gohugo.io/content-management/formats/ --&gt;
+&lt;!-- ![](/images/figure1.png) --&gt;
+</description>
+    </item>
     
     <item>
       <title>What Affects Learned Equivariance in Deep Image Recognition Models?</title>
@@ -39,9 +65,9 @@
     </item>
     
     <item>
-      <title>Lab visit @ University Tübingen</title>
+      <title>Visit to University of Tübingen</title>
       <link>https://rjbruintjes.nl/update/2022-06-24-visit-tuebingen/</link>
-      <pubDate>Thu, 23 Jun 2022 15:43:57 +0200</pubDate>
+      <pubDate>Fri, 01 Jul 2022 15:43:57 +0200</pubDate>
       <guid>https://rjbruintjes.nl/update/2022-06-24-visit-tuebingen/</guid>
       <description></description>
     </item>
@@ -51,6 +77,14 @@
       <link>https://rjbruintjes.nl/update/2022-06-23-xiangxie-thesis/</link>
       <pubDate>Thu, 23 Jun 2022 14:50:27 +0200</pubDate>
       <guid>https://rjbruintjes.nl/update/2022-06-23-xiangxie-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TA and lecturer for Computer Vision course</title>
+      <link>https://rjbruintjes.nl/update/2022-07-07-cv-by-dl-ta-2022/</link>
+      <pubDate>Tue, 07 Jun 2022 20:55:09 +0200</pubDate>
+      <guid>https://rjbruintjes.nl/update/2022-07-07-cv-by-dl-ta-2022/</guid>
       <description></description>
     </item>
     
@@ -89,6 +123,14 @@
 &lt;!-- ![](/images/figure1.png) --&gt;
 &lt;p&gt;&lt;small&gt;* Equal contribution&lt;/small&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>MSc supervision</title>
+      <link>https://rjbruintjes.nl/update/2022-01-01-tomasz-thesis/</link>
+      <pubDate>Sat, 01 Jan 2022 14:50:27 +0200</pubDate>
+      <guid>https://rjbruintjes.nl/update/2022-01-01-tomasz-thesis/</guid>
+      <description></description>
     </item>
     
     <item>
