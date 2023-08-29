@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teodor Oprescu | Robert-Jan Bruintjes</title>
+    <link>https://rjbruintjes.nl/author/teodor-oprescu/</link>
+      <atom:link href="https://rjbruintjes.nl/author/teodor-oprescu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teodor Oprescu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 24 Aug 2023 10:10:51 +0200</lastBuildDate>
+    <image>
+      <url>https://rjbruintjes.nl/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Teodor Oprescu</title>
+      <link>https://rjbruintjes.nl/author/teodor-oprescu/</link>
+    </image>
+    
+    <item>
+      <title>Benchmarking Data Efficiency and Computational Efficiency of Temporal Action Localization Models</title>
+      <link>https://rjbruintjes.nl/publication/benchmarking-action-recognition/</link>
+      <pubDate>Thu, 24 Aug 2023 10:10:51 +0200</pubDate>
+      <guid>https://rjbruintjes.nl/publication/benchmarking-action-recognition/</guid>
+      <description>&lt;!-- Write using any format: https://gohugo.io/content-management/formats/ --&gt;
+&lt;!-- ![](/images/figure1.png) --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
