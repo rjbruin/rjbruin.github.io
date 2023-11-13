@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexander Gielisse | Robert-Jan Bruintjes</title>
+    <link>https://rjbruintjes.nl/author/alexander-gielisse/</link>
+      <atom:link href="https://rjbruintjes.nl/author/alexander-gielisse/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alexander Gielisse</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 21 Sep 2023 12:32:00 +0100</lastBuildDate>
+    <image>
+      <url>https://rjbruintjes.nl/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Alexander Gielisse</title>
+      <link>https://rjbruintjes.nl/author/alexander-gielisse/</link>
+    </image>
+    
+    <item>
+      <title>Color Equivariant Convolutional Networks</title>
+      <link>https://rjbruintjes.nl/publication/color-equivariant/</link>
+      <pubDate>Thu, 21 Sep 2023 12:32:00 +0100</pubDate>
+      <guid>https://rjbruintjes.nl/publication/color-equivariant/</guid>
+      <description>&lt;!-- Write using any format: https://gohugo.io/content-management/formats/ --&gt;
+&lt;!-- ![](/images/figure1.png) --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

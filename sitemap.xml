@@ -2,49 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://rjbruintjes.nl/publication-type/1/</loc>
+    <lastmod>2023-09-21T12:32:00+01:00</lastmod>
+  </url><url>
+    <loc>https://rjbruintjes.nl/author/alexander-gielisse/</loc>
+    <lastmod>2023-09-21T12:32:00+01:00</lastmod>
+  </url><url>
+    <loc>https://rjbruintjes.nl/author/attila-lengyel/</loc>
+    <lastmod>2023-09-21T12:32:00+01:00</lastmod>
+  </url><url>
+    <loc>https://rjbruintjes.nl/authors/</loc>
+    <lastmod>2023-09-21T12:32:00+01:00</lastmod>
+  </url><url>
+    <loc>https://rjbruintjes.nl/publication/color-equivariant/</loc>
+    <lastmod>2023-09-21T12:32:00+01:00</lastmod>
+  </url><url>
+    <loc>https://rjbruintjes.nl/author/jan-van-gemert/</loc>
+    <lastmod>2023-09-21T12:32:00+01:00</lastmod>
+  </url><url>
+    <loc>https://rjbruintjes.nl/update/2023-09-color-equivariant/</loc>
+    <lastmod>2023-09-21T12:32:00+01:00</lastmod>
+  </url><url>
+    <loc>https://rjbruintjes.nl/author/ombretta-strafforello/</loc>
+    <lastmod>2023-09-21T12:32:00+01:00</lastmod>
+  </url><url>
+    <loc>https://rjbruintjes.nl/publication_types/</loc>
+    <lastmod>2023-09-21T12:32:00+01:00</lastmod>
+  </url><url>
+    <loc>https://rjbruintjes.nl/publication/</loc>
+    <lastmod>2023-09-21T12:32:00+01:00</lastmod>
+  </url><url>
+    <loc>https://rjbruintjes.nl/author/robert-jan-bruintjes/</loc>
+    <lastmod>2023-09-21T12:32:00+01:00</lastmod>
+  </url><url>
+    <loc>https://rjbruintjes.nl/</loc>
+    <lastmod>2023-09-21T12:32:00+01:00</lastmod>
+  </url><url>
+    <loc>https://rjbruintjes.nl/update/</loc>
+    <lastmod>2023-09-21T12:32:00+01:00</lastmod>
+  </url><url>
     <loc>https://rjbruintjes.nl/update/2023-08-benchmarking-action-recognition/</loc>
     <lastmod>2023-08-24T10:20:25+02:00</lastmod>
   </url><url>
-    <loc>https://rjbruintjes.nl/</loc>
-    <lastmod>2023-08-24T10:20:25+02:00</lastmod>
-  </url><url>
-    <loc>https://rjbruintjes.nl/update/</loc>
-    <lastmod>2023-08-24T10:20:25+02:00</lastmod>
-  </url><url>
-    <loc>https://rjbruintjes.nl/publication-type/1/</loc>
-    <lastmod>2023-08-24T10:10:51+02:00</lastmod>
-  </url><url>
     <loc>https://rjbruintjes.nl/author/alexandru-damacus/</loc>
-    <lastmod>2023-08-24T10:10:51+02:00</lastmod>
-  </url><url>
-    <loc>https://rjbruintjes.nl/author/attila-lengyel/</loc>
-    <lastmod>2023-08-24T10:10:51+02:00</lastmod>
-  </url><url>
-    <loc>https://rjbruintjes.nl/authors/</loc>
     <lastmod>2023-08-24T10:10:51+02:00</lastmod>
   </url><url>
     <loc>https://rjbruintjes.nl/publication/benchmarking-action-recognition/</loc>
     <lastmod>2023-08-24T10:10:51+02:00</lastmod>
   </url><url>
-    <loc>https://rjbruintjes.nl/author/jan-van-gemert/</loc>
-    <lastmod>2023-08-24T10:10:51+02:00</lastmod>
-  </url><url>
     <loc>https://rjbruintjes.nl/author/jan-warchocki/</loc>
     <lastmod>2023-08-24T10:10:51+02:00</lastmod>
   </url><url>
-    <loc>https://rjbruintjes.nl/author/ombretta-strafforello/</loc>
-    <lastmod>2023-08-24T10:10:51+02:00</lastmod>
-  </url><url>
     <loc>https://rjbruintjes.nl/author/paul-misterka/</loc>
-    <lastmod>2023-08-24T10:10:51+02:00</lastmod>
-  </url><url>
-    <loc>https://rjbruintjes.nl/publication_types/</loc>
-    <lastmod>2023-08-24T10:10:51+02:00</lastmod>
-  </url><url>
-    <loc>https://rjbruintjes.nl/publication/</loc>
-    <lastmod>2023-08-24T10:10:51+02:00</lastmod>
-  </url><url>
-    <loc>https://rjbruintjes.nl/author/robert-jan-bruintjes/</loc>
     <lastmod>2023-08-24T10:10:51+02:00</lastmod>
   </url><url>
     <loc>https://rjbruintjes.nl/author/teodor-oprescu/</loc>

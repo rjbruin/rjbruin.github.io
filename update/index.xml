@@ -5,12 +5,20 @@
     <link>https://rjbruintjes.nl/update/</link>
       <atom:link href="https://rjbruintjes.nl/update/index.xml" rel="self" type="application/rss+xml" />
     <description>Updates</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 24 Aug 2023 10:20:25 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 21 Sep 2023 12:32:00 +0100</lastBuildDate>
     <image>
       <url>https://rjbruintjes.nl/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Updates</title>
       <link>https://rjbruintjes.nl/update/</link>
     </image>
+    
+    <item>
+      <title>NeurIPS 2023 paper: Color Equivariant Convolutions</title>
+      <link>https://rjbruintjes.nl/update/2023-09-color-equivariant/</link>
+      <pubDate>Thu, 21 Sep 2023 12:32:00 +0100</pubDate>
+      <guid>https://rjbruintjes.nl/update/2023-09-color-equivariant/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ICCVW 2023 paper: Benchmarking action recognition</title>

@@ -5,12 +5,22 @@
     <link>https://rjbruintjes.nl/author/robert-jan-bruintjes/</link>
       <atom:link href="https://rjbruintjes.nl/author/robert-jan-bruintjes/index.xml" rel="self" type="application/rss+xml" />
     <description>Robert-Jan Bruintjes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 24 Aug 2023 10:10:51 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 21 Sep 2023 12:32:00 +0100</lastBuildDate>
     <image>
       <url>https://rjbruintjes.nl/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Robert-Jan Bruintjes</title>
       <link>https://rjbruintjes.nl/author/robert-jan-bruintjes/</link>
     </image>
+    
+    <item>
+      <title>Color Equivariant Convolutional Networks</title>
+      <link>https://rjbruintjes.nl/publication/color-equivariant/</link>
+      <pubDate>Thu, 21 Sep 2023 12:32:00 +0100</pubDate>
+      <guid>https://rjbruintjes.nl/publication/color-equivariant/</guid>
+      <description>&lt;!-- Write using any format: https://gohugo.io/content-management/formats/ --&gt;
+&lt;!-- ![](/images/figure1.png) --&gt;
+</description>
+    </item>
     
     <item>
       <title>Benchmarking Data Efficiency and Computational Efficiency of Temporal Action Localization Models</title>
