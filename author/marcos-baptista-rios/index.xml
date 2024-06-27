@@ -5,12 +5,22 @@
     <link>https://rjbruintjes.nl/author/marcos-baptista-rios/</link>
       <atom:link href="https://rjbruintjes.nl/author/marcos-baptista-rios/index.xml" rel="self" type="application/rss+xml" />
     <description>Marcos Baptista Rios</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2023 15:52:37 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 26 Jun 2024 15:52:37 +0200</lastBuildDate>
     <image>
       <url>https://rjbruintjes.nl/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Marcos Baptista Rios</title>
       <link>https://rjbruintjes.nl/author/marcos-baptista-rios/</link>
     </image>
+    
+    <item>
+      <title>VIPriors 4: Visual Inductive Priors for Data-Efficient Deep Learning Challenges</title>
+      <link>https://rjbruintjes.nl/publication/vipriors-4/</link>
+      <pubDate>Wed, 26 Jun 2024 15:52:37 +0200</pubDate>
+      <guid>https://rjbruintjes.nl/publication/vipriors-4/</guid>
+      <description>&lt;!-- Write using any format: https://gohugo.io/content-management/formats/ --&gt;
+&lt;!-- ![](/images/figure1.png) --&gt;
+</description>
+    </item>
     
     <item>
       <title>VIPriors 3: Visual Inductive Priors for Data-Efficient Deep Learning Challenges</title>

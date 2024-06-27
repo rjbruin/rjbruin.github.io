@@ -2,43 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://rjbruintjes.nl/update/2024-07-vipriors-4/</loc>
+    <lastmod>2024-06-26T15:59:45+02:00</lastmod>
+  </url><url>
+    <loc>https://rjbruintjes.nl/</loc>
+    <lastmod>2024-06-26T15:59:45+02:00</lastmod>
+  </url><url>
+    <loc>https://rjbruintjes.nl/update/</loc>
+    <lastmod>2024-06-26T15:59:45+02:00</lastmod>
+  </url><url>
+    <loc>https://rjbruintjes.nl/publication-type/4/</loc>
+    <lastmod>2024-06-26T15:52:37+02:00</lastmod>
+  </url><url>
+    <loc>https://rjbruintjes.nl/author/attila-lengyel/</loc>
+    <lastmod>2024-06-26T15:52:37+02:00</lastmod>
+  </url><url>
+    <loc>https://rjbruintjes.nl/authors/</loc>
+    <lastmod>2024-06-26T15:52:37+02:00</lastmod>
+  </url><url>
+    <loc>https://rjbruintjes.nl/author/davide-zambrano/</loc>
+    <lastmod>2024-06-26T15:52:37+02:00</lastmod>
+  </url><url>
+    <loc>https://rjbruintjes.nl/author/jan-van-gemert/</loc>
+    <lastmod>2024-06-26T15:52:37+02:00</lastmod>
+  </url><url>
+    <loc>https://rjbruintjes.nl/author/marcos-baptista-rios/</loc>
+    <lastmod>2024-06-26T15:52:37+02:00</lastmod>
+  </url><url>
+    <loc>https://rjbruintjes.nl/author/nergis-tomen/</loc>
+    <lastmod>2024-06-26T15:52:37+02:00</lastmod>
+  </url><url>
+    <loc>https://rjbruintjes.nl/author/osman-semih-kayhan/</loc>
+    <lastmod>2024-06-26T15:52:37+02:00</lastmod>
+  </url><url>
+    <loc>https://rjbruintjes.nl/publication_types/</loc>
+    <lastmod>2024-06-26T15:52:37+02:00</lastmod>
+  </url><url>
+    <loc>https://rjbruintjes.nl/publication/</loc>
+    <lastmod>2024-06-26T15:52:37+02:00</lastmod>
+  </url><url>
+    <loc>https://rjbruintjes.nl/author/robert-jan-bruintjes/</loc>
+    <lastmod>2024-06-26T15:52:37+02:00</lastmod>
+  </url><url>
+    <loc>https://rjbruintjes.nl/publication/vipriors-4/</loc>
+    <lastmod>2024-06-26T15:52:37+02:00</lastmod>
+  </url><url>
     <loc>https://rjbruintjes.nl/publication-type/1/</loc>
-    <lastmod>2023-09-21T12:32:00+01:00</lastmod>
+    <lastmod>2024-06-24T09:27:19+02:00</lastmod>
+  </url><url>
+    <loc>https://rjbruintjes.nl/author/mark-basting/</loc>
+    <lastmod>2024-06-24T09:27:19+02:00</lastmod>
+  </url><url>
+    <loc>https://rjbruintjes.nl/author/matthias-bethge/</loc>
+    <lastmod>2024-06-24T09:27:19+02:00</lastmod>
+  </url><url>
+    <loc>https://rjbruintjes.nl/author/matthias-kummerer/</loc>
+    <lastmod>2024-06-24T09:27:19+02:00</lastmod>
+  </url><url>
+    <loc>https://rjbruintjes.nl/publication/scale-learning/</loc>
+    <lastmod>2024-06-24T09:27:19+02:00</lastmod>
+  </url><url>
+    <loc>https://rjbruintjes.nl/author/thaddaus-wiedemer/</loc>
+    <lastmod>2024-06-24T09:27:19+02:00</lastmod>
+  </url><url>
+    <loc>https://rjbruintjes.nl/update/2024-02-paper-scale-learning/</loc>
+    <lastmod>2024-02-01T12:00:16+02:00</lastmod>
   </url><url>
     <loc>https://rjbruintjes.nl/author/alexander-gielisse/</loc>
     <lastmod>2023-09-21T12:32:00+01:00</lastmod>
   </url><url>
-    <loc>https://rjbruintjes.nl/author/attila-lengyel/</loc>
-    <lastmod>2023-09-21T12:32:00+01:00</lastmod>
-  </url><url>
-    <loc>https://rjbruintjes.nl/authors/</loc>
-    <lastmod>2023-09-21T12:32:00+01:00</lastmod>
-  </url><url>
     <loc>https://rjbruintjes.nl/publication/color-equivariant/</loc>
-    <lastmod>2023-09-21T12:32:00+01:00</lastmod>
-  </url><url>
-    <loc>https://rjbruintjes.nl/author/jan-van-gemert/</loc>
     <lastmod>2023-09-21T12:32:00+01:00</lastmod>
   </url><url>
     <loc>https://rjbruintjes.nl/update/2023-09-color-equivariant/</loc>
     <lastmod>2023-09-21T12:32:00+01:00</lastmod>
   </url><url>
     <loc>https://rjbruintjes.nl/author/ombretta-strafforello/</loc>
-    <lastmod>2023-09-21T12:32:00+01:00</lastmod>
-  </url><url>
-    <loc>https://rjbruintjes.nl/publication_types/</loc>
-    <lastmod>2023-09-21T12:32:00+01:00</lastmod>
-  </url><url>
-    <loc>https://rjbruintjes.nl/publication/</loc>
-    <lastmod>2023-09-21T12:32:00+01:00</lastmod>
-  </url><url>
-    <loc>https://rjbruintjes.nl/author/robert-jan-bruintjes/</loc>
-    <lastmod>2023-09-21T12:32:00+01:00</lastmod>
-  </url><url>
-    <loc>https://rjbruintjes.nl/</loc>
-    <lastmod>2023-09-21T12:32:00+01:00</lastmod>
-  </url><url>
-    <loc>https://rjbruintjes.nl/update/</loc>
     <lastmod>2023-09-21T12:32:00+01:00</lastmod>
   </url><url>
     <loc>https://rjbruintjes.nl/update/2023-08-benchmarking-action-recognition/</loc>
@@ -67,21 +106,6 @@
   </url><url>
     <loc>https://rjbruintjes.nl/update/2023-05-vipriors-3/</loc>
     <lastmod>2023-05-01T15:59:45+02:00</lastmod>
-  </url><url>
-    <loc>https://rjbruintjes.nl/publication-type/4/</loc>
-    <lastmod>2023-05-01T15:52:37+02:00</lastmod>
-  </url><url>
-    <loc>https://rjbruintjes.nl/author/davide-zambrano/</loc>
-    <lastmod>2023-05-01T15:52:37+02:00</lastmod>
-  </url><url>
-    <loc>https://rjbruintjes.nl/author/marcos-baptista-rios/</loc>
-    <lastmod>2023-05-01T15:52:37+02:00</lastmod>
-  </url><url>
-    <loc>https://rjbruintjes.nl/author/nergis-tomen/</loc>
-    <lastmod>2023-05-01T15:52:37+02:00</lastmod>
-  </url><url>
-    <loc>https://rjbruintjes.nl/author/osman-semih-kayhan/</loc>
-    <lastmod>2023-05-01T15:52:37+02:00</lastmod>
   </url><url>
     <loc>https://rjbruintjes.nl/publication/vipriors-3/</loc>
     <lastmod>2023-05-01T15:52:37+02:00</lastmod>

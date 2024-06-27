@@ -5,12 +5,48 @@
     <link>https://rjbruintjes.nl/</link>
       <atom:link href="https://rjbruintjes.nl/index.xml" rel="self" type="application/rss+xml" />
     <description>Robert-Jan Bruintjes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 21 Sep 2023 12:32:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 26 Jun 2024 15:59:45 +0200</lastBuildDate>
     <image>
       <url>https://rjbruintjes.nl/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Robert-Jan Bruintjes</title>
       <link>https://rjbruintjes.nl/</link>
     </image>
+    
+    <item>
+      <title>Report: VIPriors challenges 2023</title>
+      <link>https://rjbruintjes.nl/update/2024-07-vipriors-4/</link>
+      <pubDate>Wed, 26 Jun 2024 15:59:45 +0200</pubDate>
+      <guid>https://rjbruintjes.nl/update/2024-07-vipriors-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VIPriors 4: Visual Inductive Priors for Data-Efficient Deep Learning Challenges</title>
+      <link>https://rjbruintjes.nl/publication/vipriors-4/</link>
+      <pubDate>Wed, 26 Jun 2024 15:52:37 +0200</pubDate>
+      <guid>https://rjbruintjes.nl/publication/vipriors-4/</guid>
+      <description>&lt;!-- Write using any format: https://gohugo.io/content-management/formats/ --&gt;
+&lt;!-- ![](/images/figure1.png) --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scale Learning in Scale-Equivariant Convolutional Networks</title>
+      <link>https://rjbruintjes.nl/publication/scale-learning/</link>
+      <pubDate>Mon, 24 Jun 2024 09:27:19 +0200</pubDate>
+      <guid>https://rjbruintjes.nl/publication/scale-learning/</guid>
+      <description>&lt;!-- Write using any format: https://gohugo.io/content-management/formats/ --&gt;
+&lt;!-- ![](/images/figure1.png) --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VISAPP 2024 paper: Scale Learning</title>
+      <link>https://rjbruintjes.nl/update/2024-02-paper-scale-learning/</link>
+      <pubDate>Thu, 01 Feb 2024 12:00:16 +0200</pubDate>
+      <guid>https://rjbruintjes.nl/update/2024-02-paper-scale-learning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Color Equivariant Convolutional Networks</title>
